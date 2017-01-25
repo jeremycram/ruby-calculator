@@ -1,0 +1,6 @@
+puts 'welcome to the ruby calc'
+
+#I need to get the left hand for the equasion,
+# I need the operator
+# I need right hand
+# I need to calc and show result
